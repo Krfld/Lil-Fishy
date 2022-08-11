@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "26877474409",
+    "project_id": "lil-fishy--flutter",
+    "storage_bucket": "lil-fishy--flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26877474409:android:bc08193f75db4e47f814f8",
+        "android_client_info": {
+          "package_name": "com.krfld.lil_fishy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26877474409-k7j5ivj0gsd0dgjti0udd19i5k58lsun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvmA-yU2SlWOPX8_VHu6XQIQUzcS1izlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26877474409-k7j5ivj0gsd0dgjti0udd19i5k58lsun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
